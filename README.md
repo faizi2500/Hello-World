@@ -5,8 +5,6 @@ This project is a greeting project to microverse. It shows a greeting message --
 
 
 ## Additional Description
-### Copy the following link to clone this repository
-
 
 ### Built With
 Major languages
