@@ -27,6 +27,7 @@ Authors
 
 GitHub: @faizi2500
 Twitter: @faizi_250
+LinkedIn: www.linkedin.com/in/faizan2500
 
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
